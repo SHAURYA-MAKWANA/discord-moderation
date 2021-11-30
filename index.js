@@ -85,6 +85,6 @@ client.on("message", async message => {
 
 KeepAlive();
 client.login(process.env.DISCORD_BOT_TOKEN);
-client.login(ODkwMTY3NDg4OTEyOTQ5MjU4.YUr3Ew.QQYrORV4oObIRW_mk2Rk3erB9Pk);
+client.login();
 
 //Bot Coded by 365 ɢᴀᴍɪɴɢ ɴ ᴍᴏʀᴇ_2.0#6766 DONOT share WITHOUT credits!!
